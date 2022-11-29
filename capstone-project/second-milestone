@@ -1,0 +1,23 @@
+1. Principales servicios que aprendimos (servicios de almacenamiento??) (agregar descripción de c/u)
+-
+-
+-
+○ What is the service intended for?
+○ Is this a managed service in the Azure Cloud? Why?
+○ What is the cost of this service?
+○ Is there more than one configuration of this service? What are the main
+differences?
+○ Include references
+● Once you finish the description of the services of the previous point, now add a
+new section in the same document and create a list of the main tools/software
+that you use in your work everyday.
+● Using the list of services above, add a category indicating whether the tool is a
+Paas, Saas or IaaS.
+● Finally, add a new section in the same document, check the list of services that
+you use everyday and try to map all the services that you could use in the azure
+cloud instead of your current tools and try to answer the following questions:
+○ Does my tool have an equivalent service in the cloud?
+○ If yes, which one? What things are equal, what others are different?
+○ If not, is there any other similar service? What things are equal, what
+others are different?
+Don’t forget to update and upload your changes into your repository
